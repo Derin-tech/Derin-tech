@@ -23,10 +23,11 @@ When I am not coding or participating in student hackathons, I am actively colla
 
 ### 💻 Tech Stack & Interests
 
-* **Core Web:** Native HTML5 & CSS3, JavaScript (ES6+)
-* **Frameworks & Libraries:** React, Next.js
-* **Data Science & AI Focus:** Python, NumPy, Pandas, TensorFlow, PyTorch, RAG, AI Agents
-* **Development Tools:** Git, Unix/Linux CLI, Virtual Machines, Vercel
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,py,tensorflow,pytorch,linux,git,vercel&theme=dark" alt="Derin's Tech Stack" />
+  </a>
+</div>
 
 ---
 
@@ -41,19 +42,15 @@ When I am not coding or participating in student hackathons, I am actively colla
 
 <div align="center">
 
-  <!-- GitHub Stats Card -->
+  <!-- Alternative Profile Details Card -->
   <a href="https://github.com/Derin-tech">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Derin-tech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Derin's GitHub Stats" />
-  </a>
-
-  <!-- Top Languages Card -->
-  <a href="https://github.com/Derin-tech">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derin-tech&layout=compact&theme=tokyonight" alt="Derin's Top Languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Derin-tech&theme=tokyonight" alt="Derin's GitHub Stats" />
   </a>
 
   <br />
+  <br />
 
-  <!-- GitHub Streak Card -->
+  <!-- GitHub Streak Card (Working!) -->
   <a href="https://github.com/Derin-tech">
     <img src="https://streak-stats.demolab.com/?user=Derin-tech&theme=tokyonight" alt="Derin's Contribution Streak" />
   </a>
