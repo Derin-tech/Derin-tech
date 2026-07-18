@@ -1,5 +1,26 @@
 # 👋 Hi, I’m Derin-tech!
 
+<div align="center">
+
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/Derin-tech">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Derin-tech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Derin's GitHub Stats" />
+  </a>
+
+  <!-- Top Languages Card -->
+  <a href="https://github.com/Derin-tech">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derin-tech&layout=compact&theme=tokyonight" alt="Derin's Top Languages" />
+  </a>
+
+  <br />
+
+  <!-- GitHub Streak Card -->
+  <a href="https://github.com/Derin-tech">
+    <img src="https://streak-stats.demolab.com/?user=Derin-tech&theme=tokyonight" alt="Derin's Contribution Streak" />
+  </a>
+
+</div>
+
 Welcome to my GitHub profile!  
 I’m just starting out on my coding journey after finishing my 12th grade, and I’m excited to learn, build, and grow as a developer.
 
