@@ -1,4 +1,43 @@
-# 👋 Hi, I’m Derin-tech!
+# 👋 Hi, I'm Derin Jose Sanjith
+
+**Computer Science Engineering Student | Aspiring Full-Stack Developer | AI Enthusiast**
+
+I am a developer who loves crafting clean, responsive web applications and exploring the cutting-edge of Artificial Intelligence. I take pride in building rock-solid user interfaces from the ground up using native HTML and CSS, while leveraging frameworks like React and Next.js. Beyond the web, I am deeply interested in the AI/ML space, specifically diving into Retrieval-Augmented Generation (RAG) and building AI agents.
+
+When I am not coding or participating in student hackathons, I am actively collaborating with my campus tech community to organize events and build innovative prototypes.
+
+---
+
+### 👨‍💻 A Little About Me
+
+* 🎓 Pursuing a **B.Tech in Computer Science** at the **College of Engineering Trivandrum (CET)** (Class of 2029).
+* 🛠️ **Current Project:** Architecting an interactive, web-based Resume Builder application.
+* 🌱 **Learning Focus:** Deepening my understanding of Machine Learning (TensorFlow, PyTorch), exploring RAG architectures, and experimenting with autonomous AI agents.
+* 🤝 **Community Involvement:** 
+  * **GDGC (Google Developer Groups on Campus):** Finance Team
+  * **NexDS:** Technical Team
+  * **SCORE CET:** Marketing Team
+  * **Under25 CET Chapter:** Operations Team
+
+---
+
+### 💻 Tech Stack & Interests
+
+* **Core Web:** Native HTML5 & CSS3, JavaScript (ES6+)
+* **Frameworks & Libraries:** React, Next.js
+* **Data Science & AI Focus:** Python, NumPy, Pandas, TensorFlow, PyTorch, RAG, AI Agents
+* **Development Tools:** Git, Unix/Linux CLI, Virtual Machines, Vercel
+
+---
+
+### 📫 Let's Connect!
+
+* **Email:** derinjosesanjith@gmail.com
+* **Location:** Thiruvananthapuram, Kerala
+
+---
+
+### 📊 GitHub Activity
 
 <div align="center">
 
@@ -20,30 +59,3 @@
   </a>
 
 </div>
-
-Welcome to my GitHub profile!  
-I’m just starting out on my coding journey after finishing my 12th grade, and I’m excited to learn, build, and grow as a developer.
-
-## 🌱 What I’m Learning
-- Currently exploring **Python** as my first programming language.
-- Eager to dive into new technologies, tools, and creative projects.
-
-## 🚀 My Goals
-- Become confident in coding before and during college.
-- Build cool projects and share them here.
-- Join hackathons, collaborate with others, and contribute to open source.
-
-## 📚 About Me
-- Student, beginner coder, and tech enthusiast.
-- Always curious and ready to take on new challenges.
-- Open to connect, learn, and grow with the community.
-
-## 🛠️ Skills
-*Still learning! More to come soon…*
-
-## 📫 How to reach me
-*Contact details coming soon!*
-
----
-
-_This profile is a work in progress. I’ll keep updating it as I learn more and build awesome things!_
